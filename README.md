@@ -29,6 +29,26 @@ Decimal:4278235055
 
 # Windows Screen Color Copy Paste
 
+In Windows, the default color selection window lacks several options.
+
+-No option to pick up a color from the screen
+
+-No magnifying glass when selecting a color
+
+-No option to save your own palettes
+
+-No option to quickly copy color values to the clipboard
+
+I decided to write a workaround for these issues.
+Unfortunately, I don't know how to write a program to replace the system window with my own, so the program works as a separate application with the ability to copy the selected color to the Windows color selection window.
+
+Tips.
+
+To select a color from the screen and copy it to the Windows color selection window:
+Run the program, pick up the color, select a slot in 'User custom palette', run 'Pick screen color', click on the 'Add color to selected slot' button, go to any application that displays the default Windows color selection window (e.g., Paint, Fast Stone Image Viewer), click on the added color. 
+The color will be automatically copied to the Windows color selection window.
+
+----------------------------------------------------------------------------
 A utility (EXE or Python script utility built with PySide6) for picking colors from your screen, managing custom color palettes, and copying color values in various formats. It also features a unique ability to send RGB values directly to the standard Windows "Kolor" (Color) dialog, often used by applications like MS Paint.
 
 ## Key Features
@@ -112,6 +132,26 @@ python "Windows Screen Color Copy Paste.py"
 
 # Windows Screen Color Copy Paste
 
+W Windows domyślne okno wyboru koloru nie ma kilku opcji.
+
+-brak możliwości pobrania koloru z ekranu
+
+-brak lupy przy wybieraniu koloru
+
+-brak zapamiętywania własnych palet
+
+-brak możliwości szybkiego kopiowania wartości koloru do schowka
+
+Postanowiłem napisać pewne obejście tych problemów.
+Niestety nie umiem napisać programu, żeby podmienić systemowe okno swoim, więc program działa jako osobna aplikacja z możliwością kopiowania wybranego koloru do okna wyboru koloru Windows.
+
+Tips.
+
+Żeby wybrać kolor z ekranu i skopiować go do okna wyboru koloru Windows:
+Uruchom program, pobierz kolor, w 'User custom pallete' wybierz slot (okienko), uruchom 'Pick screen color', kliknij na przycisk 'Add color to selected slot', przejedź do dowolnej aplikacji wyświetlającej domyślne okno wyboru koloru Windows (np. Paint, Fast Stone Image Viever), kliknij na dodany kolor. 
+Kolor zostanie automatycznie skopiowany do okna wyboru koloru Windows.
+
+-----------------------------------------------------------------------
 Program (EXE lub skrypt w Pythonie korzystający z PySide6) do wybierania kolorów z ekranu, zarządzania niestandardowymi paletami kolorów oraz kopiowania wartości kolorów w różnych formatach. Posiada również unikalną funkcję wysyłania wartości RGB bezpośrednio do standardowego okna dialogowego "Kolor" systemu Windows, często używanego przez aplikacje takie jak MS Paint.
 
 ## Kluczowe Funkcje
