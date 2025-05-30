@@ -6,6 +6,27 @@ Magnify option (if click Acttions: Pick Screen Color)
 
 ![copy](images/copy.jpg)
 
+--------------------
+'COPY ALL' function (example):
+
+RGB:0,175,175
+
+RGBA:0,175,175,255
+
+HTML:#00afaf
+
+HEX ARGB:#ff00afaf
+
+HSL(Win):120,240,83
+
+HSV:180,255,175
+
+CMYK:255,0,0,80
+
+Decimal:4278235055
+
+-------------------
+
 # Windows Screen Color Copy Paste
 
 A utility (EXE or Python script utility built with PySide6) for picking colors from your screen, managing custom color palettes, and copying color values in various formats. It also features a unique ability to send RGB values directly to the standard Windows "Kolor" (Color) dialog, often used by applications like MS Paint.
