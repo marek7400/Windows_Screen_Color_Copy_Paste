@@ -1,3 +1,5 @@
+FOR WINDOWS 10.
+
 ![Windows Screen Color Copy Paste](images/WindowsScreenColorCopyPaste.jpg)
 
 Magnify option (if click Acttions: Pick Screen Color)
