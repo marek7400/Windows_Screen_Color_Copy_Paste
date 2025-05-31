@@ -7,7 +7,7 @@ Magnify option (if click Acttions: Pick Screen Color)
 ![copy](images/copy.jpg)
 
 --------------------
-'COPY ALL' function (example):
+'ALL' function (example):
 
 RGB:0,175,175
 
