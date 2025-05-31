@@ -1,4 +1,3 @@
-FOR WINDOWS 10.
 
 ![Windows Screen Color Copy Paste](images/WindowsScreenColorCopyPaste.jpg)
 
