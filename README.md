@@ -2,6 +2,7 @@ VIDEO:
 
 https://www.youtube.com/watch?v=BFuy-UtL7Sg
 
+
 ![Windows Screen Color Copy Paste](images/WindowsScreenColorCopyPaste.jpg)
 
 Magnify option (if click Acttions: Pick Screen Color)
