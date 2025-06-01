@@ -1,15 +1,31 @@
 VIDEO:
 
-https://www.youtube.com/watch?v=BFuy-UtL7Sg
+# https://www.youtube.com/watch?v=BFuy-UtL7Sg <br>
 
-
-![Windows Screen Color Copy Paste](images/WindowsScreenColorCopyPaste.jpg)
+![Windows Screen Color Copy Paste](images/WindowsScreenColorCopyPaste.jpg) 
+<br>
+<br>
+<br>
+<br>
 
 Magnify option (if click Acttions: Pick Screen Color)
 
 ![magnifyoption](images/magnifyoption.jpg)
 
+<br>
+<br>
+<br>
+<br>
+
 ![copy](images/copy.jpg)
+<br>
+<br>
+<br>
+<br>
+
+After changing the class code and rgb identifiers, it will probably be possible to adapt copying to the color selection windows of other programs (e.g., WORD).
+
+![word](images/word.jpg)
 
 --------------------
 'ALL' function (example):
@@ -47,7 +63,7 @@ In Windows, the default color selection window lacks several options.
 I decided to write a workaround for these issues.
 Unfortunately, I don't know how to write a program to replace the system window with my own, so the program works as a separate application with the ability to copy the selected color to the Windows color selection window.
 
-Tips.
+## Tips.
 
 To select a color from the screen and copy it to the Windows color selection window:
 Run the program, pick up the color, select a slot in 'User custom palette', run 'Pick screen color', click on the 'Add color to selected slot' button, go to any application that displays the default Windows color selection window (e.g., Paint, Fast Stone Image Viewer), click on the added color. 
