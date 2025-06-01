@@ -26,6 +26,8 @@ Magnify option (if click Acttions: Pick Screen Color)
 After changing the class code and rgb identifiers, it will probably be possible to adapt copying to the color selection windows of other programs (e.g., WORD).
 
 ![word](images/word.jpg)
+<br>
+![word](images/word2.jpg)
 
 --------------------
 'ALL' function (example):
